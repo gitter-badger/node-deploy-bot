@@ -2,6 +2,8 @@
 Deploy Bot
 ==========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/j-san/node-deploy-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM](http://img.shields.io/npm/v/deploy-bot.svg)](https://www.npmjs.org/package/deploy-bot)
 
 A simple tool for an **agent less** continuous deployment bot.
